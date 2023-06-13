@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt -p -type f 
+ls -tp 
